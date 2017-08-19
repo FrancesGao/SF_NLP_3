@@ -1,0 +1,3291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>-LCB-</word>
+            <lemma>-lcb-</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>-LRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>1</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>rtf1</word>
+            <lemma>rtf1</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>ansi</word>
+            <lemma>ansus</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>ansicpg1252</word>
+            <lemma>ansicpg1252</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>cocoartf1504</word>
+            <lemma>cocoartf1504</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>cocoasubrtf830</word>
+            <lemma>cocoasubrtf830</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>-LCB-</word>
+            <lemma>-lcb-</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>-LRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>fonttbl</word>
+            <lemma>fonttbl</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>f0</word>
+            <lemma>f0</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>fswiss</word>
+            <lemma>fswiss</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>fcharset0</word>
+            <lemma>fcharset0</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>Helvetica</word>
+            <lemma>helvetica</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>;</word>
+            <lemma>;</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>-RCB-</word>
+            <lemma>-rcb-</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>-RRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>-LCB-</word>
+            <lemma>-lcb-</lemma>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>-LRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>95</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>colortbl</word>
+            <lemma>colortbl</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>;</word>
+            <lemma>;</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>106</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>red255</word>
+            <lemma>red255</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="30">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="31">
+            <word>green255</word>
+            <lemma>green255</lemma>
+            <CharacterOffsetBegin>113</CharacterOffsetBegin>
+            <CharacterOffsetEnd>121</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="32">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="33">
+            <word>blue255</word>
+            <lemma>blue255</lemma>
+            <CharacterOffsetBegin>122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>129</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="34">
+            <word>;</word>
+            <lemma>;</lemma>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="35">
+            <word>-RCB-</word>
+            <lemma>-rcb-</lemma>
+            <CharacterOffsetBegin>130</CharacterOffsetBegin>
+            <CharacterOffsetEnd>131</CharacterOffsetEnd>
+            <POS>-RRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="36">
+            <word>-LCB-</word>
+            <lemma>-lcb-</lemma>
+            <CharacterOffsetBegin>132</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>-LRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="37">
+            <word>\*</word>
+            <lemma>\*</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>135</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="38">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="39">
+            <word>expandedcolortbl</word>
+            <lemma>expandedcolortbl</lemma>
+            <CharacterOffsetBegin>136</CharacterOffsetBegin>
+            <CharacterOffsetEnd>152</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="40">
+            <word>;</word>
+            <lemma>;</lemma>
+            <CharacterOffsetBegin>152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>153</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="41">
+            <word>;</word>
+            <lemma>;</lemma>
+            <CharacterOffsetBegin>153</CharacterOffsetBegin>
+            <CharacterOffsetEnd>154</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="42">
+            <word>-RCB-</word>
+            <lemma>-rcb-</lemma>
+            <CharacterOffsetBegin>154</CharacterOffsetBegin>
+            <CharacterOffsetEnd>155</CharacterOffsetEnd>
+            <POS>-RRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="43">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>156</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>SYM</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="44">
+            <word>margl1440</word>
+            <lemma>margl1440</lemma>
+            <CharacterOffsetBegin>157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>166</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="45">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>167</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="46">
+            <word>margr1440</word>
+            <lemma>margr1440</lemma>
+            <CharacterOffsetBegin>167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>176</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="47">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>176</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="48">
+            <word>vieww10800</word>
+            <lemma>vieww10800</lemma>
+            <CharacterOffsetBegin>177</CharacterOffsetBegin>
+            <CharacterOffsetEnd>187</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="49">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>187</CharacterOffsetBegin>
+            <CharacterOffsetEnd>188</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="50">
+            <word>viewh8400</word>
+            <lemma>viewh8400</lemma>
+            <CharacterOffsetBegin>188</CharacterOffsetBegin>
+            <CharacterOffsetEnd>197</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="51">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>197</CharacterOffsetBegin>
+            <CharacterOffsetEnd>198</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="52">
+            <word>viewkind0</word>
+            <lemma>viewkind0</lemma>
+            <CharacterOffsetBegin>198</CharacterOffsetBegin>
+            <CharacterOffsetEnd>207</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="53">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>208</CharacterOffsetBegin>
+            <CharacterOffsetEnd>209</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="54">
+            <word>pard</word>
+            <lemma>pard</lemma>
+            <CharacterOffsetBegin>209</CharacterOffsetBegin>
+            <CharacterOffsetEnd>213</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="55">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>213</CharacterOffsetBegin>
+            <CharacterOffsetEnd>214</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="56">
+            <word>tx720</word>
+            <lemma>tx720</lemma>
+            <CharacterOffsetBegin>214</CharacterOffsetBegin>
+            <CharacterOffsetEnd>219</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="57">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>219</CharacterOffsetBegin>
+            <CharacterOffsetEnd>220</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="58">
+            <word>tx1440</word>
+            <lemma>tx1440</lemma>
+            <CharacterOffsetBegin>220</CharacterOffsetBegin>
+            <CharacterOffsetEnd>226</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="59">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>226</CharacterOffsetBegin>
+            <CharacterOffsetEnd>227</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="60">
+            <word>tx2160</word>
+            <lemma>tx2160</lemma>
+            <CharacterOffsetBegin>227</CharacterOffsetBegin>
+            <CharacterOffsetEnd>233</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="61">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>233</CharacterOffsetBegin>
+            <CharacterOffsetEnd>234</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="62">
+            <word>tx2880</word>
+            <lemma>tx2880</lemma>
+            <CharacterOffsetBegin>234</CharacterOffsetBegin>
+            <CharacterOffsetEnd>240</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="63">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>240</CharacterOffsetBegin>
+            <CharacterOffsetEnd>241</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="64">
+            <word>tx3600</word>
+            <lemma>tx3600</lemma>
+            <CharacterOffsetBegin>241</CharacterOffsetBegin>
+            <CharacterOffsetEnd>247</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="65">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>247</CharacterOffsetBegin>
+            <CharacterOffsetEnd>248</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="66">
+            <word>tx4320</word>
+            <lemma>tx4320</lemma>
+            <CharacterOffsetBegin>248</CharacterOffsetBegin>
+            <CharacterOffsetEnd>254</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="67">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>254</CharacterOffsetBegin>
+            <CharacterOffsetEnd>255</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="68">
+            <word>tx5040</word>
+            <lemma>tx5040</lemma>
+            <CharacterOffsetBegin>255</CharacterOffsetBegin>
+            <CharacterOffsetEnd>261</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="69">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>261</CharacterOffsetBegin>
+            <CharacterOffsetEnd>262</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="70">
+            <word>tx5760</word>
+            <lemma>tx5760</lemma>
+            <CharacterOffsetBegin>262</CharacterOffsetBegin>
+            <CharacterOffsetEnd>268</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="71">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>268</CharacterOffsetBegin>
+            <CharacterOffsetEnd>269</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="72">
+            <word>tx6480</word>
+            <lemma>tx6480</lemma>
+            <CharacterOffsetBegin>269</CharacterOffsetBegin>
+            <CharacterOffsetEnd>275</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="73">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>275</CharacterOffsetBegin>
+            <CharacterOffsetEnd>276</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="74">
+            <word>tx7200</word>
+            <lemma>tx7200</lemma>
+            <CharacterOffsetBegin>276</CharacterOffsetBegin>
+            <CharacterOffsetEnd>282</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="75">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>282</CharacterOffsetBegin>
+            <CharacterOffsetEnd>283</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="76">
+            <word>tx7920</word>
+            <lemma>tx7920</lemma>
+            <CharacterOffsetBegin>283</CharacterOffsetBegin>
+            <CharacterOffsetEnd>289</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="77">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>289</CharacterOffsetBegin>
+            <CharacterOffsetEnd>290</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="78">
+            <word>tx8640</word>
+            <lemma>tx8640</lemma>
+            <CharacterOffsetBegin>290</CharacterOffsetBegin>
+            <CharacterOffsetEnd>296</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="79">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>296</CharacterOffsetBegin>
+            <CharacterOffsetEnd>297</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="80">
+            <word>pardirnatural</word>
+            <lemma>pardirnatural</lemma>
+            <CharacterOffsetBegin>297</CharacterOffsetBegin>
+            <CharacterOffsetEnd>310</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="81">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>310</CharacterOffsetBegin>
+            <CharacterOffsetEnd>311</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="82">
+            <word>partightenfactor0</word>
+            <lemma>partightenfactor0</lemma>
+            <CharacterOffsetBegin>311</CharacterOffsetBegin>
+            <CharacterOffsetEnd>328</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="83">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>330</CharacterOffsetBegin>
+            <CharacterOffsetEnd>331</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="84">
+            <word>f0</word>
+            <lemma>f0</lemma>
+            <CharacterOffsetBegin>331</CharacterOffsetBegin>
+            <CharacterOffsetEnd>333</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="85">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>333</CharacterOffsetBegin>
+            <CharacterOffsetEnd>334</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="86">
+            <word>fs24</word>
+            <lemma>fs24</lemma>
+            <CharacterOffsetBegin>334</CharacterOffsetBegin>
+            <CharacterOffsetEnd>338</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="87">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>339</CharacterOffsetBegin>
+            <CharacterOffsetEnd>340</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="88">
+            <word>cf0</word>
+            <lemma>cf0</lemma>
+            <CharacterOffsetBegin>340</CharacterOffsetBegin>
+            <CharacterOffsetEnd>343</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="89">
+            <word>U2</word>
+            <lemma>u2</lemma>
+            <CharacterOffsetBegin>344</CharacterOffsetBegin>
+            <CharacterOffsetEnd>346</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="90">
+            <word>roadie</word>
+            <lemma>roadie</lemma>
+            <CharacterOffsetBegin>347</CharacterOffsetBegin>
+            <CharacterOffsetEnd>353</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="91">
+            <word>gets</word>
+            <lemma>get</lemma>
+            <CharacterOffsetBegin>354</CharacterOffsetBegin>
+            <CharacterOffsetEnd>358</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="92">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>359</CharacterOffsetBegin>
+            <CharacterOffsetEnd>360</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="93">
+            <word>moment</word>
+            <lemma>moment</lemma>
+            <CharacterOffsetBegin>361</CharacterOffsetBegin>
+            <CharacterOffsetEnd>367</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="94">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>368</CharacterOffsetBegin>
+            <CharacterOffsetEnd>370</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="95">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>371</CharacterOffsetBegin>
+            <CharacterOffsetEnd>374</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="96">
+            <word>spotlight</word>
+            <lemma>spotlight</lemma>
+            <CharacterOffsetBegin>375</CharacterOffsetBegin>
+            <CharacterOffsetEnd>384</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="97">
+            <word>\</word>
+            <lemma>\</lemma>
+            <CharacterOffsetBegin>384</CharacterOffsetBegin>
+            <CharacterOffsetEnd>385</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="98">
+            <word>Vietnamese</word>
+            <lemma>vietnamese</lemma>
+            <CharacterOffsetBegin>386</CharacterOffsetBegin>
+            <CharacterOffsetEnd>396</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="99">
+            <word>family</word>
+            <lemma>family</lemma>
+            <CharacterOffsetBegin>397</CharacterOffsetBegin>
+            <CharacterOffsetEnd>403</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="100">
+            <word>tested</word>
+            <lemma>test</lemma>
+            <CharacterOffsetBegin>404</CharacterOffsetBegin>
+            <CharacterOffsetEnd>410</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="101">
+            <word>negative</word>
+            <lemma>negative</lemma>
+            <CharacterOffsetBegin>411</CharacterOffsetBegin>
+            <CharacterOffsetEnd>419</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="102">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>420</CharacterOffsetBegin>
+            <CharacterOffsetEnd>423</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="103">
+            <word>bird</word>
+            <lemma>bird</lemma>
+            <CharacterOffsetBegin>424</CharacterOffsetBegin>
+            <CharacterOffsetEnd>428</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="104">
+            <word>flu</word>
+            <lemma>flu</lemma>
+            <CharacterOffsetBegin>429</CharacterOffsetBegin>
+            <CharacterOffsetEnd>432</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="105">
+            <word>-RCB-</word>
+            <lemma>-rcb-</lemma>
+            <CharacterOffsetBegin>432</CharacterOffsetBegin>
+            <CharacterOffsetEnd>433</CharacterOffsetEnd>
+            <POS>-RRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (PRN (-LRB- -LCB-) (FRAG (NP (NP (NN \) (NN rtf1)) (SBAR (S (NP (CD \) (NNS ansi)) (VP (VBP \) (ADJP (ADJP (ADJP (NN ansicpg1252)) (PRN (NP (NP (CD \)) (NP (NP (NN cocoartf1504)) (NP (NP (CD \) (NN cocoasubrtf830)) (-LRB- -LCB-) (NP (NP (NN \) (NN fonttbl)) (NP (NP (CD \) (NN f0)) (NP (ADJP (CD \) (JJ fswiss) (NN \)) (NN fcharset0) (NN Helvetica)))) (: ;)))) (-RRB- -RCB-))) (PRN (-LRB- -LCB-) (NP (NP (CD \) (NN colortbl)) (: ;) (NP (NP (CD \) (NN red255)) (NP (NP (CD \) (NN green255)) (SBAR (S (NP (NP (CD \) (NN blue255)) (: ;) (NP (NP (-RRB- -RCB-)) (-LRB- -LCB-) (NP (NP (CD \*) (NN \)) (NP (NN expandedcolortbl))) (: ;)) (: ;))))))) (-RRB- -RCB-))))))) (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (SYM \)) (NP (CD margl1440))) (NP (CD \))) (NP (NN margr1440) (CD \))) (NP (NN vieww10800) (CD \))) (NP (NN viewh8400) (CD \))) (NP (NN viewkind0) (CD \))) (NP (NN pard) (CD \))) (NP (NN tx720) (CD \))) (NP (NN tx1440) (CD \))) (NP (NN tx2160) (CD \))) (NP (NN tx2880) (CD \))) (NP (NN tx3600) (CD \))) (NP (NN tx4320) (CD \))) (NP (NN tx5040) (CD \))) (NP (NN tx5760) (CD \))) (NP (NN tx6480) (CD \))) (NP (NN tx7200) (CD \))) (NP (NN tx7920) (CD \))) (NP (NN tx8640) (CD \))) (NP (NP (JJ pardirnatural) (NN \) (NN partightenfactor0)) (NP (CD \) (NN f0)))) (NP (NP (CD \) (NN fs24)) (SBAR (S (NP (CD \) (NN cf0) (NN U2) (NN roadie)) (VP (VBZ gets) (NP (NP (DT a) (NN moment)) (PP (IN in) (NP (NP (DT the) (NN spotlight) (CD \) (JJ Vietnamese) (NN family)) (VP (VBN tested) (ADJP (JJ negative)) (PP (IN for) (NP (NN bird) (NN flu))))))))))))) (-RRB- -RCB-))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">rtf1</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="1">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="2">\</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">ansi</governor>
+            <dependent idx="4">\</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">\</governor>
+            <dependent idx="5">ansi</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="6">\</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">\</governor>
+            <dependent idx="7">ansicpg1252</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="8">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">\</governor>
+            <dependent idx="9">cocoartf1504</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="10">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">cocoartf1504</governor>
+            <dependent idx="11">cocoasubrtf830</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="12">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="13">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="14">fonttbl</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="16">f0</governor>
+            <dependent idx="15">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="16">f0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">\</governor>
+            <dependent idx="17">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">\</governor>
+            <dependent idx="18">fswiss</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="19">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="20">fcharset0</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">f0</governor>
+            <dependent idx="21">Helvetica</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="22">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">\</governor>
+            <dependent idx="23">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="24">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="25">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="26">colortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="27">;</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="29">red255</governor>
+            <dependent idx="28">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="29">red255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="31">green255</governor>
+            <dependent idx="30">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">red255</governor>
+            <dependent idx="31">green255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="33">blue255</governor>
+            <dependent idx="32">\</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="31">green255</governor>
+            <dependent idx="33">blue255</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="34">;</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="33">blue255</governor>
+            <dependent idx="35">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="36">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="38">\</governor>
+            <dependent idx="37">\*</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="38">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="38">\</governor>
+            <dependent idx="39">expandedcolortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="40">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="41">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="42">-RCB-</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="44">margl1440</governor>
+            <dependent idx="43">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="45">\</governor>
+            <dependent idx="44">margl1440</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="45">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="46">margr1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="47">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="48">vieww10800</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="49">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="50">viewh8400</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="51">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="54">pard</governor>
+            <dependent idx="52">viewkind0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="53">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="56">tx720</governor>
+            <dependent idx="54">pard</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="54">pard</governor>
+            <dependent idx="55">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="56">tx720</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="56">tx720</governor>
+            <dependent idx="57">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="58">tx1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="59">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="60">tx2160</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="61">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="62">tx2880</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="63">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="64">tx3600</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="65">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="66">tx4320</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="67">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="68">tx5040</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="69">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="70">tx5760</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="71">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="72">tx6480</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="73">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="74">tx7200</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="75">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="76">tx7920</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="77">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="78">tx8640</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="79">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="80">pardirnatural</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="81">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="86">fs24</governor>
+            <dependent idx="82">partightenfactor0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="84">f0</governor>
+            <dependent idx="83">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="84">f0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="86">fs24</governor>
+            <dependent idx="85">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="86">fs24</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="90">roadie</governor>
+            <dependent idx="87">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="88">cf0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="89">U2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="91">gets</governor>
+            <dependent idx="90">roadie</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="86">fs24</governor>
+            <dependent idx="91">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="93">moment</governor>
+            <dependent idx="92">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="91">gets</governor>
+            <dependent idx="93">moment</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="99">family</governor>
+            <dependent idx="94">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="99">family</governor>
+            <dependent idx="95">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="99">family</governor>
+            <dependent idx="96">spotlight</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="99">family</governor>
+            <dependent idx="97">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="99">family</governor>
+            <dependent idx="98">Vietnamese</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="93">moment</governor>
+            <dependent idx="99">family</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="99">family</governor>
+            <dependent idx="100">tested</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="100">tested</governor>
+            <dependent idx="101">negative</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="104">flu</governor>
+            <dependent idx="102">for</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="104">flu</governor>
+            <dependent idx="103">bird</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="100">tested</governor>
+            <dependent idx="104">flu</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="105">-RCB-</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">rtf1</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="1">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="2">\</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">ansi</governor>
+            <dependent idx="4">\</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">\</governor>
+            <dependent idx="5">ansi</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="6">\</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">\</governor>
+            <dependent idx="7">ansicpg1252</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="8">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">\</governor>
+            <dependent idx="9">cocoartf1504</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="10">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">cocoartf1504</governor>
+            <dependent idx="11">cocoasubrtf830</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="12">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="13">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="14">fonttbl</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="16">f0</governor>
+            <dependent idx="15">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="16">f0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">\</governor>
+            <dependent idx="17">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">\</governor>
+            <dependent idx="18">fswiss</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="19">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="20">fcharset0</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">f0</governor>
+            <dependent idx="21">Helvetica</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="22">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">\</governor>
+            <dependent idx="23">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="24">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="25">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="26">colortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="27">;</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="29">red255</governor>
+            <dependent idx="28">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="29">red255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="31">green255</governor>
+            <dependent idx="30">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">red255</governor>
+            <dependent idx="31">green255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="33">blue255</governor>
+            <dependent idx="32">\</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="31">green255</governor>
+            <dependent idx="33">blue255</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="34">;</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="33">blue255</governor>
+            <dependent idx="35">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="36">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="38">\</governor>
+            <dependent idx="37">\*</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="38">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="38">\</governor>
+            <dependent idx="39">expandedcolortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="40">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="41">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="42">-RCB-</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="44">margl1440</governor>
+            <dependent idx="43">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="45">\</governor>
+            <dependent idx="44">margl1440</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="45">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="46">margr1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="47">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="48">vieww10800</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="49">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="50">viewh8400</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="51">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="54">pard</governor>
+            <dependent idx="52">viewkind0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="53">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="56">tx720</governor>
+            <dependent idx="54">pard</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="54">pard</governor>
+            <dependent idx="55">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="56">tx720</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="56">tx720</governor>
+            <dependent idx="57">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="58">tx1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="59">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="60">tx2160</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="61">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="62">tx2880</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="63">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="64">tx3600</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="65">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="66">tx4320</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="67">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="68">tx5040</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="69">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="70">tx5760</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="71">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="72">tx6480</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="73">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="74">tx7200</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="75">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="76">tx7920</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="77">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="78">tx8640</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="79">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="80">pardirnatural</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="81">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="86">fs24</governor>
+            <dependent idx="82">partightenfactor0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="84">f0</governor>
+            <dependent idx="83">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="84">f0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="86">fs24</governor>
+            <dependent idx="85">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="86">fs24</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="90">roadie</governor>
+            <dependent idx="87">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="88">cf0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="89">U2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="91">gets</governor>
+            <dependent idx="90">roadie</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="86">fs24</governor>
+            <dependent idx="91">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="93">moment</governor>
+            <dependent idx="92">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="91">gets</governor>
+            <dependent idx="93">moment</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="99">family</governor>
+            <dependent idx="94">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="99">family</governor>
+            <dependent idx="95">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="99">family</governor>
+            <dependent idx="96">spotlight</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="99">family</governor>
+            <dependent idx="97">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="99">family</governor>
+            <dependent idx="98">Vietnamese</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="93">moment</governor>
+            <dependent idx="99">family</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="99">family</governor>
+            <dependent idx="100">tested</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="100">tested</governor>
+            <dependent idx="101">negative</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="104">flu</governor>
+            <dependent idx="102">for</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="104">flu</governor>
+            <dependent idx="103">bird</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="100">tested</governor>
+            <dependent idx="104">flu</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="105">-RCB-</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">rtf1</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="1">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="2">\</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">ansi</governor>
+            <dependent idx="4">\</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">\</governor>
+            <dependent idx="5">ansi</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="6">\</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">\</governor>
+            <dependent idx="7">ansicpg1252</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="8">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">\</governor>
+            <dependent idx="9">cocoartf1504</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="10">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">cocoartf1504</governor>
+            <dependent idx="11">cocoasubrtf830</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="12">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="13">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="14">fonttbl</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="16">f0</governor>
+            <dependent idx="15">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="16">f0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">\</governor>
+            <dependent idx="17">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">\</governor>
+            <dependent idx="18">fswiss</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="19">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="20">fcharset0</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">f0</governor>
+            <dependent idx="21">Helvetica</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="22">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">\</governor>
+            <dependent idx="23">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="24">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="25">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="26">colortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="27">;</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="29">red255</governor>
+            <dependent idx="28">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="29">red255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="31">green255</governor>
+            <dependent idx="30">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">red255</governor>
+            <dependent idx="31">green255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="33">blue255</governor>
+            <dependent idx="32">\</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="31">green255</governor>
+            <dependent idx="33">blue255</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="34">;</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="33">blue255</governor>
+            <dependent idx="35">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="36">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="38">\</governor>
+            <dependent idx="37">\*</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="38">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="38">\</governor>
+            <dependent idx="39">expandedcolortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="40">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="41">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="42">-RCB-</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="44">margl1440</governor>
+            <dependent idx="43">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="45">\</governor>
+            <dependent idx="44">margl1440</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="45">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="46">margr1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="47">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="48">vieww10800</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="49">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="50">viewh8400</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="51">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="54">pard</governor>
+            <dependent idx="52">viewkind0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="53">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="56">tx720</governor>
+            <dependent idx="54">pard</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="54">pard</governor>
+            <dependent idx="55">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="56">tx720</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="56">tx720</governor>
+            <dependent idx="57">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="58">tx1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="59">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="60">tx2160</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="61">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="62">tx2880</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="63">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="64">tx3600</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="65">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="66">tx4320</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="67">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="68">tx5040</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="69">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="70">tx5760</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="71">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="72">tx6480</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="73">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="74">tx7200</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="75">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="76">tx7920</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="77">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="78">tx8640</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="79">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="80">pardirnatural</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="81">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="86">fs24</governor>
+            <dependent idx="82">partightenfactor0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="84">f0</governor>
+            <dependent idx="83">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="84">f0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="86">fs24</governor>
+            <dependent idx="85">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="86">fs24</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="90">roadie</governor>
+            <dependent idx="87">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="88">cf0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="89">U2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="91">gets</governor>
+            <dependent idx="90">roadie</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="86">fs24</governor>
+            <dependent idx="91">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="93">moment</governor>
+            <dependent idx="92">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="91">gets</governor>
+            <dependent idx="93">moment</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="99">family</governor>
+            <dependent idx="94">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="99">family</governor>
+            <dependent idx="95">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="99">family</governor>
+            <dependent idx="96">spotlight</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="99">family</governor>
+            <dependent idx="97">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="99">family</governor>
+            <dependent idx="98">Vietnamese</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="93">moment</governor>
+            <dependent idx="99">family</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="99">family</governor>
+            <dependent idx="100">tested</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="100">tested</governor>
+            <dependent idx="101">negative</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="104">flu</governor>
+            <dependent idx="102">for</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="104">flu</governor>
+            <dependent idx="103">bird</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="100">tested</governor>
+            <dependent idx="104">flu</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="105">-RCB-</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">rtf1</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="1">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="2">\</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">ansi</governor>
+            <dependent idx="4">\</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">\</governor>
+            <dependent idx="5">ansi</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="6">\</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">\</governor>
+            <dependent idx="7">ansicpg1252</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="8">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">\</governor>
+            <dependent idx="9">cocoartf1504</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="10">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">cocoartf1504</governor>
+            <dependent idx="11">cocoasubrtf830</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="12">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="13">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="14">fonttbl</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="16">f0</governor>
+            <dependent idx="15">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="16">f0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">\</governor>
+            <dependent idx="17">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">\</governor>
+            <dependent idx="18">fswiss</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="19">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="20">fcharset0</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">f0</governor>
+            <dependent idx="21">Helvetica</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="22">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">\</governor>
+            <dependent idx="23">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="24">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="25">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="26">colortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="27">;</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="29">red255</governor>
+            <dependent idx="28">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="29">red255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="31">green255</governor>
+            <dependent idx="30">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">red255</governor>
+            <dependent idx="31">green255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="33">blue255</governor>
+            <dependent idx="32">\</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="31">green255</governor>
+            <dependent idx="33">blue255</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="34">;</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="33">blue255</governor>
+            <dependent idx="35">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="36">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="38">\</governor>
+            <dependent idx="37">\*</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="38">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="38">\</governor>
+            <dependent idx="39">expandedcolortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="40">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="41">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="42">-RCB-</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="44">margl1440</governor>
+            <dependent idx="43">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="45">\</governor>
+            <dependent idx="44">margl1440</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="45">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="46">margr1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="47">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="48">vieww10800</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="49">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="50">viewh8400</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="51">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="54">pard</governor>
+            <dependent idx="52">viewkind0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="53">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="56">tx720</governor>
+            <dependent idx="54">pard</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="54">pard</governor>
+            <dependent idx="55">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="56">tx720</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="56">tx720</governor>
+            <dependent idx="57">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="58">tx1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="59">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="60">tx2160</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="61">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="62">tx2880</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="63">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="64">tx3600</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="65">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="66">tx4320</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="67">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="68">tx5040</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="69">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="70">tx5760</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="71">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="72">tx6480</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="73">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="74">tx7200</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="75">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="76">tx7920</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="77">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="78">tx8640</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="79">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="80">pardirnatural</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="81">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="86">fs24</governor>
+            <dependent idx="82">partightenfactor0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="84">f0</governor>
+            <dependent idx="83">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="84">f0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="86">fs24</governor>
+            <dependent idx="85">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="86">fs24</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="90">roadie</governor>
+            <dependent idx="87">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="88">cf0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="89">U2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="91">gets</governor>
+            <dependent idx="90">roadie</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="86">fs24</governor>
+            <dependent idx="91">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="93">moment</governor>
+            <dependent idx="92">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="91">gets</governor>
+            <dependent idx="93">moment</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="99">family</governor>
+            <dependent idx="94">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="99">family</governor>
+            <dependent idx="95">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="99">family</governor>
+            <dependent idx="96">spotlight</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="99">family</governor>
+            <dependent idx="97">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="99">family</governor>
+            <dependent idx="98">Vietnamese</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="93">moment</governor>
+            <dependent idx="99">family</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="99">family</governor>
+            <dependent idx="100">tested</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="100">tested</governor>
+            <dependent idx="101">negative</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="104">flu</governor>
+            <dependent idx="102">for</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="104">flu</governor>
+            <dependent idx="103">bird</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="100">tested</governor>
+            <dependent idx="104">flu</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="105">-RCB-</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">rtf1</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="1">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="2">\</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">ansi</governor>
+            <dependent idx="4">\</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">\</governor>
+            <dependent idx="5">ansi</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="6">\</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">\</governor>
+            <dependent idx="7">ansicpg1252</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="8">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">\</governor>
+            <dependent idx="9">cocoartf1504</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="10">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">cocoartf1504</governor>
+            <dependent idx="11">cocoasubrtf830</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="12">-LCB-</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="13">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="14">fonttbl</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="16">f0</governor>
+            <dependent idx="15">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">fonttbl</governor>
+            <dependent idx="16">f0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">\</governor>
+            <dependent idx="17">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">\</governor>
+            <dependent idx="18">fswiss</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="19">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="21">Helvetica</governor>
+            <dependent idx="20">fcharset0</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">f0</governor>
+            <dependent idx="21">Helvetica</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">cocoasubrtf830</governor>
+            <dependent idx="22">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">\</governor>
+            <dependent idx="23">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="24">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="25">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">ansicpg1252</governor>
+            <dependent idx="26">colortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="27">;</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="29">red255</governor>
+            <dependent idx="28">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="29">red255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="31">green255</governor>
+            <dependent idx="30">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">red255</governor>
+            <dependent idx="31">green255</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="33">blue255</governor>
+            <dependent idx="32">\</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="31">green255</governor>
+            <dependent idx="33">blue255</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="34">;</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="33">blue255</governor>
+            <dependent idx="35">-RCB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="36">-LCB-</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="38">\</governor>
+            <dependent idx="37">\*</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="38">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="38">\</governor>
+            <dependent idx="39">expandedcolortbl</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="35">-RCB-</governor>
+            <dependent idx="40">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="33">blue255</governor>
+            <dependent idx="41">;</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">colortbl</governor>
+            <dependent idx="42">-RCB-</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="44">margl1440</governor>
+            <dependent idx="43">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="45">\</governor>
+            <dependent idx="44">margl1440</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="45">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="46">margr1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="46">margr1440</governor>
+            <dependent idx="47">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="48">vieww10800</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="48">vieww10800</governor>
+            <dependent idx="49">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="50">viewh8400</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="50">viewh8400</governor>
+            <dependent idx="51">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="54">pard</governor>
+            <dependent idx="52">viewkind0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">viewkind0</governor>
+            <dependent idx="53">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="56">tx720</governor>
+            <dependent idx="54">pard</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="54">pard</governor>
+            <dependent idx="55">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="56">tx720</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="56">tx720</governor>
+            <dependent idx="57">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="58">tx1440</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="58">tx1440</governor>
+            <dependent idx="59">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="60">tx2160</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="60">tx2160</governor>
+            <dependent idx="61">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="62">tx2880</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="62">tx2880</governor>
+            <dependent idx="63">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="64">tx3600</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="64">tx3600</governor>
+            <dependent idx="65">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="66">tx4320</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="66">tx4320</governor>
+            <dependent idx="67">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="68">tx5040</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="68">tx5040</governor>
+            <dependent idx="69">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="70">tx5760</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="70">tx5760</governor>
+            <dependent idx="71">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="72">tx6480</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="72">tx6480</governor>
+            <dependent idx="73">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="74">tx7200</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="74">tx7200</governor>
+            <dependent idx="75">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="76">tx7920</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="76">tx7920</governor>
+            <dependent idx="77">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="78">tx8640</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="78">tx8640</governor>
+            <dependent idx="79">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="80">pardirnatural</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="81">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="86">fs24</governor>
+            <dependent idx="82">partightenfactor0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="84">f0</governor>
+            <dependent idx="83">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="82">partightenfactor0</governor>
+            <dependent idx="84">f0</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="86">fs24</governor>
+            <dependent idx="85">\</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="86">fs24</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="90">roadie</governor>
+            <dependent idx="87">\</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="88">cf0</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="90">roadie</governor>
+            <dependent idx="89">U2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="91">gets</governor>
+            <dependent idx="90">roadie</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="86">fs24</governor>
+            <dependent idx="91">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="93">moment</governor>
+            <dependent idx="92">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="91">gets</governor>
+            <dependent idx="93">moment</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="99">family</governor>
+            <dependent idx="94">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="99">family</governor>
+            <dependent idx="95">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="99">family</governor>
+            <dependent idx="96">spotlight</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="99">family</governor>
+            <dependent idx="97">\</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="99">family</governor>
+            <dependent idx="98">Vietnamese</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="93">moment</governor>
+            <dependent idx="99">family</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="99">family</governor>
+            <dependent idx="100">tested</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="100">tested</governor>
+            <dependent idx="101">negative</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="104">flu</governor>
+            <dependent idx="102">for</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="104">flu</governor>
+            <dependent idx="103">bird</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="100">tested</governor>
+            <dependent idx="104">flu</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">rtf1</governor>
+            <dependent idx="105">-RCB-</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>4</start>
+          <end>5</end>
+          <head>4</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>10</start>
+          <end>11</end>
+          <head>10</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>15</start>
+          <end>16</end>
+          <head>15</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>17</start>
+          <end>18</end>
+          <head>17</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>25</start>
+          <end>26</end>
+          <head>25</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>28</start>
+          <end>29</end>
+          <head>28</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>30</start>
+          <end>31</end>
+          <head>30</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>32</start>
+          <end>33</end>
+          <head>32</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>47</start>
+          <end>48</end>
+          <head>47</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>49</start>
+          <end>50</end>
+          <head>49</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>51</start>
+          <end>52</end>
+          <head>51</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>53</start>
+          <end>54</end>
+          <head>53</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>55</start>
+          <end>56</end>
+          <head>55</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>57</start>
+          <end>58</end>
+          <head>57</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>59</start>
+          <end>60</end>
+          <head>59</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>61</start>
+          <end>62</end>
+          <head>61</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>63</start>
+          <end>64</end>
+          <head>63</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>65</start>
+          <end>66</end>
+          <head>65</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>67</start>
+          <end>68</end>
+          <head>67</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>69</start>
+          <end>70</end>
+          <head>69</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>71</start>
+          <end>72</end>
+          <head>71</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>73</start>
+          <end>74</end>
+          <head>73</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>75</start>
+          <end>76</end>
+          <head>75</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>77</start>
+          <end>78</end>
+          <head>77</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>79</start>
+          <end>80</end>
+          <head>79</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>83</start>
+          <end>84</end>
+          <head>83</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>85</start>
+          <end>86</end>
+          <head>85</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>87</start>
+          <end>88</end>
+          <head>87</head>
+          <text>\</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>97</start>
+          <end>98</end>
+          <head>97</head>
+          <text>\</text>
+        </mention>
+      </coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>15</start>
+          <end>22</end>
+          <head>16</head>
+          <text>\ f0 \ fswiss \ fcharset0 Helvetica</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>83</start>
+          <end>85</end>
+          <head>84</head>
+          <text>\ f0</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

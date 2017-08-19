@@ -1,0 +1,1 @@
+java -mx1g -cp stanford-corenlp-3.8.0.jar:stanford-corenlp-3.8.0-models.jar:CoreNLP-to-HTML.xsl:slf4j-api.jar:slf4j-simple.jar edu.stanford.nlp.naturalli.OpenIE
